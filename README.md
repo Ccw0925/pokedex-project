@@ -18,7 +18,7 @@ My first Go project while learning the language - a simple Pokémon API that fet
 ## 📦 Installation
 
 ### Prerequisites
-- Go 1.21+
+- Go 1.24+
 
 ### Local Setup
 ```bash
