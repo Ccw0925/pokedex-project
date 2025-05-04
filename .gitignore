@@ -1,0 +1,14 @@
+# Binaries
+bin/
+pokedex-project
+
+# Dependency directories
+vendor/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+
+# Environment files
+.env
